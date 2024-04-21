@@ -1,0 +1,14 @@
+go to start.spring.io website
+
+select maven project and language java
+
+select spring boot version (RC1)
+don't use snapshot versions
+
+change group and artifact in project
+
+select packaging to jar and java version
+
+then generate it
+
+unzip the file 
